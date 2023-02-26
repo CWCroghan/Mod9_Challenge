@@ -10,9 +10,9 @@
 
 <p>Univariate statistics were calculated for the month of June and December for all the years that the data were collected.</p>
 
-![June Temps]("https://github.com/CWCroghan/Mod9_Challenge/blob/main/JuneTemps.png")
+![June Temps](https://github.com/CWCroghan/Mod9_Challenge/blob/main/JuneTemps.png)
 
-![December Temps]("https://github.com/CWCroghan/Mod9_Challenge/blob/main/DecTemps.png")
+![December Temps](https://github.com/CWCroghan/Mod9_Challenge/blob/main/DecTemps.png)
 
 <p>Here are some observations about the statistics:</p>
 <ul>
@@ -27,9 +27,9 @@
 
 <p>One of the primary findings of the analysis shows that the data distribution is different during the two time periods.  December temperatures are more variable.  These two histograms demonstrate this point.</p>
 
-<image href="https://github.com/CWCroghan/Mod9_Challenge/blob/main/JuneHistogram.png">June Temps Histogram</image>
+![June Temps Histogram](https://github.com/CWCroghan/Mod9_Challenge/blob/main/JuneHistogram.png)
 
-<image href="https://github.com/CWCroghan/Mod9_Challenge/blob/main/DecHistogram.png">December Temps Histogram</image>
+![December Temps Histogram](https://github.com/CWCroghan/Mod9_Challenge/blob/main/DecHistogram.png)
 
 <p>Although the mean temperatures differ for the two time periods, there is no indication that these differences are statistically significant or even consequentially different.  A more considerable concern may be the number of days that will have ideal surfing conditions.  According to House of Surf (https://houseofsurf.co/), temperatures in the range of 75 – 82 are ideal for surfing.</p>
 
