@@ -10,9 +10,9 @@
 
 <p>Univariate statistics were calculated for the month of June and December for all the years that the data were collected.</p>
 
-<image href="https://github.com/CWCroghan/Mod9_Challenge/blob/main/JuneTemps.png">June Temps</image>
+![June Temps]("https://github.com/CWCroghan/Mod9_Challenge/blob/main/JuneTemps.png")
 
-<image href="https://github.com/CWCroghan/Mod9_Challenge/blob/main/DecTemps.png">December Temps</image>
+![December Temps]("https://github.com/CWCroghan/Mod9_Challenge/blob/main/DecTemps.png")
 
 <p>Here are some observations about the statistics:</p>
 <ul>
